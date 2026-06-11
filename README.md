@@ -42,7 +42,7 @@ Programming languages
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></a>
 </p>
 
-Frontend Development
+User Interface Technologies
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
